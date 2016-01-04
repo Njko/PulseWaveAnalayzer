@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/PulwaveAnalyser/PulseWaveViewController.m \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/PulwaveAnalyser/PulseWaveViewController.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Pods/PulseWaveFramework/PulseWaveFramework/Output/PulseWaveFramework-Release-iphoneuniversal/PulseWaveFramework.framework/Headers/PWReader.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Pods/PulseWaveFramework/PulseWaveFramework/Output/PulseWaveFramework-Release-iphoneuniversal/PulseWaveFramework.framework/Headers/PWReaderDelegate.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Pods/PulseWaveFramework/PulseWaveFramework/Output/PulseWaveFramework-Release-iphoneuniversal/PulseWaveFramework.framework/Headers/PWDataReaderDelegate.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Pods/PulseWaveFramework/PulseWaveFramework/Output/PulseWaveFramework-Release-iphoneuniversal/PulseWaveFramework.framework/Headers/PWDataReaderController.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Pods/PulseWaveFramework/PulseWaveFramework/Output/PulseWaveFramework-Release-iphoneuniversal/PulseWaveFramework.framework/Headers/PWByteUtils.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Pods/PulseWaveFramework/PulseWaveFramework/Output/PulseWaveFramework-Release-iphoneuniversal/PulseWaveFramework.framework/Headers/RscMgr.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Pods/PulseWaveFramework/PulseWaveFramework/Output/PulseWaveFramework-Release-iphoneuniversal/PulseWaveFramework.framework/Headers/redparkSerial.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Pods/PulseWaveFramework/PulseWaveFramework/Output/PulseWaveFramework-Release-iphoneuniversal/PulseWaveFramework.framework/Headers/PulseWaveFramework.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Pods/PulseWaveFramework/PulseWaveFramework/Output/PulseWaveFramework-Release-iphoneuniversal/PulseWaveFramework.framework/Modules/module.modulemap \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/PulwaveAnalyser/PulseWaveReader.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Build/Products/Debug-iphoneos/CocoaLumberjack.framework/Headers/DDAbstractDatabaseLogger.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Build/Products/Debug-iphoneos/CocoaLumberjack.framework/Headers/DDMultiFormatter.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Build/Products/Debug-iphoneos/CocoaLumberjack.framework/Headers/DDDispatchQueueLogFormatter.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Build/Products/Debug-iphoneos/CocoaLumberjack.framework/Headers/DDContextFilterLogFormatter.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Build/Products/Debug-iphoneos/CocoaLumberjack.framework/Headers/DDFileLogger.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Build/Products/Debug-iphoneos/CocoaLumberjack.framework/Headers/DDTTYLogger.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Build/Products/Debug-iphoneos/CocoaLumberjack.framework/Headers/DDASLLogger.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Build/Products/Debug-iphoneos/CocoaLumberjack.framework/Headers/DDASLLogCapture.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Build/Products/Debug-iphoneos/CocoaLumberjack.framework/Headers/DDAssertMacros.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Build/Products/Debug-iphoneos/CocoaLumberjack.framework/Headers/DDLogMacros.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Build/Products/Debug-iphoneos/CocoaLumberjack.framework/Headers/DDLegacyMacros.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Build/Products/Debug-iphoneos/CocoaLumberjack.framework/Headers/DDLog.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Build/Products/Debug-iphoneos/CocoaLumberjack.framework/Headers/CocoaLumberjack.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Build/Products/Debug-iphoneos/CocoaLumberjack.framework/Modules/module.modulemap \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/PulwaveAnalyser/FileBufferManager.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/PulwaveAnalyser/LineChartViewController.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Build/Products/Debug-iphoneos/Charts.framework/Headers/Charts-Swift.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Build/Products/Debug-iphoneos/Charts.framework/Headers/Charts-umbrella.h \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/Build/Products/Debug-iphoneos/Charts.framework/Modules/module.modulemap \
+  /Users/nicolas.linard/Projects/ios/pulsewaveanalyser/PulwaveAnalyser/PulwaveAnalyser/RealTimeLineChartViewController.h

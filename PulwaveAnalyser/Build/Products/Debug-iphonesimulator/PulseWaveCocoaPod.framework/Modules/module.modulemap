@@ -1,0 +1,6 @@
+framework module PulseWaveCocoaPod {
+  umbrella header "PulseWaveCocoaPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

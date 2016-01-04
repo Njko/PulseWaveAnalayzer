@@ -1,0 +1,1 @@
+../../../../PulseWaveFramework/PulseWaveFramework/Output/PulseWaveFramework-Release-iphoneuniversal/PulseWaveFramework.framework/Headers/PWReader.h

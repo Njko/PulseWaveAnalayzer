@@ -1,0 +1,1 @@
+ const unsigned char PulseWaveCocoaPodVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:PulseWaveCocoaPod  PROJECT:Pods-1" "\n"; const double PulseWaveCocoaPodVersionNumber __attribute__ ((used)) = (double)1.;
